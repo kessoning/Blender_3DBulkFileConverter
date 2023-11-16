@@ -4,7 +4,7 @@
 This tool stands out in its ability to effortlessly convert large batches of 3D files between popular formats such as GLTF, GLB, OBJ, and FBX. Equipped with features like compression, separate texture exports, and subfolder processing, this add-on streamlines the workflow, making file conversion a breeze in complex projects.
 
 ## Reason for Creation
-As a 3D artist constantly juggling various file formats, I often found myself needing to convert numerous files – a task that was both time-consuming and cumbersome with existing tools. This add-on is the result of a personal necessity to simplify and speed up the file conversion process in Blender, making it a valuable tool for anyone in the 3D creation sphere.
+As a creative technologist and technical artist constantly juggling various file formats, I often found myself needing to convert numerous files – a task that was both time-consuming and cumbersome with existing tools. This add-on is the result of a personal necessity to simplify and speed up the file conversion process in Blender, making it a valuable tool for anyone in the 3D creation sphere.
 
 ## Installation
 To install the add-on in Blender:
