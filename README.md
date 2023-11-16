@@ -9,7 +9,7 @@ As a 3D artist constantly juggling various file formats, I often found myself ne
 ## Installation
 To install the add-on in Blender:
 
-1. Download the `3d_batch_file_converter.py` script from this repository.
+1. Download the `3d_batch_file_converter.py` script from this repository (or from [here](https://github.com/kessoning/Blender_3DBulkFileConverter/releases/download/v0.0.1/bulk_file_converter.py)).
 2. Open Blender and go to `Edit > Preferences`.
 3. In the Preferences window, navigate to the Add-ons tab.
 4. Click on the "Install..." button and select the downloaded `.py` file.
@@ -17,6 +17,8 @@ To install the add-on in Blender:
 
 ## Usage
 After installation, the add-on can be accessed in Blender's 3D Viewport under the Tools panel.
+
+![Screenshot](https://raw.githubusercontent.com/kessoning/Blender_3DBulkFileConverter/main/Screenshot.png)
 
 - **Source Folder**: Select the folder containing the 3D files to convert.
 - **Target Folder**: Choose the destination folder for the converted files.
